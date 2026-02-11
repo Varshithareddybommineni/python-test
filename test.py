@@ -1,1 +1,1 @@
-prit("hellloooo pupppyyyy!!!!!!!!!!!")
+print("hellloooo pupppyyyy!!!!!!!!!!!")
